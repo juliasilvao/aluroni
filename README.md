@@ -1,46 +1,64 @@
-# Getting Started with Create React App
+<p align="center">
+  <img width="500" height="200" src="https://user-images.githubusercontent.com/31010583/207418185-a3b2584f-74ad-4802-9ed6-fe305f75b75b.svg">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##
 
-## Available Scripts
+<h3 align="center">
+  <a href="#sobre">Sobre</a>&nbsp;|&nbsp;
+  <a href="#motivo">Motivo</a>&nbsp;|&nbsp;
+  <a href="#demonstração">Demonstração</a>&nbsp;|&nbsp;
+  <a href="#pré-requisitos">Pré-requisitos</a>&nbsp;|&nbsp;
+  <a href="#instalação">Instalação</a>&nbsp;|&nbsp;
+  <a href="#executando-o-sistema">Executando</a>&nbsp;|&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;
+</h3>
 
-In the project directory, you can run:
+## Sobre
 
-### `npm start`
+É o cardápio do restaurante Aluroni.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Motivo
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Esse projeto foi desenvolvido durante o curso de **React: lidando com arquivos estáticos** da Alura.
 
-### `npm test`
+## Demonstração
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://user-images.githubusercontent.com/31010583/207424987-963827b3-35f5-4899-9c02-734179da94ed.mp4
 
-### `npm run build`
+## Pré-requisitos
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Instalação
+```
+# Clone o repositório
+$ git clone https://github.com/juliasilvao/aluroni.git
 
-### `npm run eject`
+# Acesse o diretório
+$ cd aluroni
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Instale as dependências
+$ npm install
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Executando o sistema
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```
+# Inicie o servidor
+$ npm start
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Tecnologias
 
-## Learn More
+As seguintes ferramentas foram usadas na construção do projeto:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![npm](https://img.shields.io/npm/v/react?color=black&label=React&logo=react)
+![npm](https://img.shields.io/npm/v/typescript?color=black&label=Typescript&logo=typescript&logoColor=blue)
+![npm](https://img.shields.io/npm/v/sass?color=black&label=Sass&logo=Sass&logoColor=pink)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+##
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
