@@ -20,11 +20,13 @@
 
 ## Motivo
 
-Esse projeto foi desenvolvido durante o curso de **React: lidando com arquivos estáticos** da Alura.
+Esse projeto foi desenvolvido durante o curso de **React: lidando com arquivos estáticos** e **React: conhecendo a biblioteca React Router** da Alura.
 
 ## Demonstração
 
-https://user-images.githubusercontent.com/31010583/207424987-963827b3-35f5-4899-9c02-734179da94ed.mp4
+https://user-images.githubusercontent.com/31010583/207711007-e9ec83a3-52da-4190-ae73-1abc9f50d0c4.mp4
+
+https://user-images.githubusercontent.com/31010583/207711037-8d9574e7-31c6-472c-85c4-33d14a6b7e96.mp4
 
 ## Pré-requisitos
 
